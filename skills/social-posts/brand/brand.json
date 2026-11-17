@@ -1,0 +1,56 @@
+{
+  "name": "",
+  "website": "",
+  "tagline": "",
+  "colours": {
+    "background": "#F7F7F5",
+    "ink": "#111827",
+    "accent": "#4F46E5",
+    "soft": "#E0E7FF",
+    "muted": "#4B5563",
+    "chatHeader": "#075E54",
+    "chatBackground": "#EFE7DD",
+    "chatOut": "#D9FDD3"
+  },
+  "fonts": {
+    "heading": {
+      "file": "fonts/Inter.ttf",
+      "variation": "ExtraBold"
+    },
+    "body": {
+      "file": "fonts/Inter.ttf",
+      "variation": "Regular"
+    },
+    "bodyBold": {
+      "file": "fonts/Inter.ttf",
+      "variation": "SemiBold"
+    }
+  },
+  "logo": {
+    "file": ""
+  },
+  "timezone": "Europe/London",
+  "networks": {
+    "linkedin": {
+      "use": true,
+      "account": ""
+    },
+    "instagram": {
+      "use": true,
+      "account": "",
+      "bioLink": ""
+    }
+  },
+  "posting": {
+    "defaultTime": "09:30",
+    "days": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
+    "instagramPerDay": 1
+  },
+  "publerWorkspace": ""
+}
